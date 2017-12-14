@@ -105,24 +105,21 @@ Attention : c'est `bootstrap` et non `boostrap` !
 
 ## doc
 
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element
-https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
+- https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+- https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
 
 ## resources
 
 - [The W3C Markup Validation Service](https://validator.w3.org/)
 - [Service de validation CSS du W3C](https://jigsaw.w3.org/css-validator/)
-https://fonts.google.com/
-https://iconmonstr.com/
-http://fontawesome.io/
-https://css-tricks.com/
-https://css-tricks.com/couple-takes-sticky-footer/
+- https://fonts.google.com/
+- https://iconmonstr.com/
+- http://fontawesome.io/
+- https://css-tricks.com/
+- https://css-tricks.com/couple-takes-sticky-footer/
+- https://choosealicense.com/
+- http://creativecommons.fr/
 
 ## aller plus loin
 
 - htmltidy
-
-## licences
-
-https://choosealicense.com/
-http://creativecommons.fr/
