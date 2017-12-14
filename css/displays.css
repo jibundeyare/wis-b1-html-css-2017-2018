@@ -1,0 +1,14 @@
+.display-inline {
+  display: inline;
+}
+
+.display-block {
+  display: block;
+}
+
+.button {
+  background-color: pink;
+  display: inline-block;
+  height: 50px;
+  width: 100px;
+}

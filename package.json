@@ -1,0 +1,16 @@
+{
+  "name": "wis-b1-html-css-2017-2018",
+  "version": "1.0.0",
+  "description": "@done voir indentation\r @done voir syntaxe css\r @done voir id et class\r @done voir suite font\r @done pseudo classes\r @done box model\r @done centrer un élément v/h\r @todo sticky footer\r @todo install node & npm\r @todo bootstrap\r @todo (svg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1"
+  }
+}

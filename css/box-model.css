@@ -1,0 +1,17 @@
+.box1 {
+  background-color: pink;
+  border: 3px solid grey;
+  box-sizing: content-box;
+  margin: 30px 30px 30px 30px;
+  padding: 15px 15px 15px 15px;
+  width: 300px;
+}
+
+.box2 {
+  background-color: lightblue;
+  border: 3px solid grey;
+  box-sizing: border-box;
+  margin: 30px 30px 30px 30px;
+  padding: 15px 15px 15px 15px;
+  width: 300px;
+}

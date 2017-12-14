@@ -1,0 +1,11 @@
+#p1 {
+  background-color: pink;
+}
+
+.p2, .p3 {
+  background-color: lightblue;
+}
+
+.italic {
+  font-style: italic;
+}

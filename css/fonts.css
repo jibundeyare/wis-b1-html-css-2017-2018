@@ -1,0 +1,39 @@
+.sans-serif {
+  font-family: "Helvetica Neue", Helvetica, arial, sans-serif;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.shrikhand {
+  font-family: 'Shrikhand', cursive;
+}
+
+.size-32 {
+  font-size: 32px;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.no-decoration {
+  text-decoration: none;
+}
+
+.line-through {
+  text-decoration: line-through;
+}
+
+.center {
+  text-align: center;
+}

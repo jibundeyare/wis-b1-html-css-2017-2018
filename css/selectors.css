@@ -1,0 +1,16 @@
+h1 {
+  color: grey;
+  background-color: pink;
+}
+
+h1, p, a {
+  text-transform: uppercase;
+}
+
+div p {
+  background-color: lightblue;
+}
+
+div > a {
+  font-size: 32px;
+}

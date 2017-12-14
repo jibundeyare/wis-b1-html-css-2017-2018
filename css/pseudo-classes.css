@@ -1,0 +1,15 @@
+a {
+  color: lightgreen;
+}
+
+a:visited {
+  color: red;
+}
+
+a:hover {
+  color: green;
+}
+
+a:focus {
+  color: blue;
+}
